@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84e9302a-2c05-4bc8-b938-fd87feebe0b3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../a.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo.c" beforeDir="false" afterPath="$PROJECT_DIR$/../demo.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/socket/client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/socket/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket/client.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/socket/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/socket/server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
